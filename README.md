@@ -10,3 +10,5 @@ Through the implementation of a Random Forest classifier and a user-friendly gra
 Steps :
 1 - run all the cells in model.py 
 2 - python app.py
+
+Note : Once go through "Final Project PPT_final.pptx" this file
